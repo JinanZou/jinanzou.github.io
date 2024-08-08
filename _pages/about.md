@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), the University of Adelaide. I obtained my PhD degree at the Australian Institute for Machine Learning, The University of Adelaide, under the supervision of [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/). My research delves into devising groundbreaking approaches for Quant Trading and agricultural dilemmas, utilizing causal AI and NLP to unravel the nuances of decision-making paradigms.
+I am a postdoctoral researcher at [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), the University of Adelaide. I obtained my PhD degree at the Australian Institute for Machine Learning, The University of Adelaide, under the supervision of [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/). My research delves into devising groundbreaking approaches for agricultural dilemmas and Quant Trading, utilizing causal AI and NLP to unravel the nuances of decision-making paradigms.
 
 Email: jinan(dot)zou(at)adelaide(dot)edu(dot)au
 
@@ -32,8 +32,15 @@ Selected Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
+
+Projects Experience
+======
+* Feb 2023 - Current: GRDC-Funded project: Automated Snail Detection, Tracking, and Counting Using Computer Vision for more effective control of snails in Australian Grain Crops.
+* Jan 2024 - Current: Enhancing AI Education for School Students with Large Language Models (LLM) for Personalized and Engaging Learning Experiences.
+* Jan 2023 - Current: Leveraging Large Language Models (LLM) and Causal AI for Advanced Portfolio Management Solutions.
+* July 2022 - July 2023: Utilizing Large Language Models (LLM) for Sentiment Analysis on Twitter to Enhance Insights for Roche Australia.
+
+
 Services
 ======
 * Reviewer for ICAIF 24, CoNLL 24
