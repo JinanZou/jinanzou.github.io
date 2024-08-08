@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a postdoctoral researcher at [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), the University of Adelaide. I obtained my PhD degree at the Australian Institute for Machine Learning, The University of Adelaide, under the supervision of [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/). My research delves into devising groundbreaking approaches for agricultural dilemmas and Quant Trading, utilizing Causal AI and NLP to unravel the nuances of decision-making paradigms.
 
-Email: jinan(dot)zou(at)adelaide(dot)edu(dot)au
+Email: jinan.zou (at) adelaide.edu.au
 
 
 I am actively seeking motivated undergraduate students and postgraduates interested in collaboration. I am also committed to mentorship and welcome inquiries from those new to the field of quant trading and AI. Please feel free to email me if you are interested. 
