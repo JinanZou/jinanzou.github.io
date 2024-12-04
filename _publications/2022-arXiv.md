@@ -1,5 +1,5 @@
 ---
-title: "Stock market prediction via deep learning techniques: A survey"
+title: "Stock Market Prediction via Deep Learning Techniques: A survey"
 collection: publications
 permalink: /publication/2022-12-24-SURVEY
 excerpt: 'This paper is a survey for stock prediction via deep learning techniques.'
