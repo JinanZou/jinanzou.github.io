@@ -16,7 +16,7 @@ I am actively seeking motivated undergraduate students and postgraduates interes
 
 News
 ======
-* Nov 2024 I will serve as the panellist at [AI in Education Conference](https://www.informa.com.au/event/conference/education/artificial-intelligence-in-education-conference/)
+* Nov 2024 I will serve as the panellist at [AI in Education Conference](https://www.informa.com.au/event/conference/education/artificial-intelligence-in-education-conference/).
 * Aug 2024 One paper on CasualAI for stock trading is accepted by [TMLR](https://jmlr.org/tmlr/).
 * Aug 2024 I will serve as the AI Scientist for STEM camp organized by [CSIRO Education](https://www.csiro.au/en/education).
 * Feb 2024 One paper on OoD detection for NLP is accepted by [COLING 24](https://lrec-coling-2024.org/).
