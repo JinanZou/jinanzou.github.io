@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher at [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), the University of Adelaide. I obtained my PhD degree at the Australian Institute for Machine Learning, The University of Adelaide, under the supervision of [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/)，[Ass. Prof. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/), and [Dr Ehsan Abbasnejad](https://ehsanabb.github.io/)]. My research delves into devising groundbreaking approaches for agricultural dilemmas and Quant Trading, utilizing Causal AI and NLP to unravel the nuances of decision-making paradigms.
+I am a postdoctoral researcher at [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), the University of Adelaide. I obtained my PhD degree at the Australian Institute for Machine Learning, The University of Adelaide, under the supervision of [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/)，[Associate Professor](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io/), and [Dr Ehsan Abbasnejad](https://ehsanabb.github.io/). My research delves into devising groundbreaking approaches for agricultural dilemmas and Quant Trading, utilizing Causal AI and NLP to unravel the nuances of decision-making paradigms.
 
 Email: jinan.zou (at) adelaide.edu.au
 
