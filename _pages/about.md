@@ -12,7 +12,7 @@ I am a postdoctoral researcher at [Australian Institute for Machine Learning](ht
 Email: jinan.zou (at) adelaide.edu.au
 
 
-I am actively seeking motivated undergraduate students and postgraduates interested in collaboration. I am also committed to mentorship and welcome inquiries from those new to the field of quant trading and AI. Please feel free to email me if you are interested. 
+I am actively seeking motivated undergraduate students and postgraduates interested in collaboration. I am also committed to mentorship and welcome inquiries from those new to the field of quant trading and AI Education. Please feel free to email me if you are interested. 
 
 News
 ======
