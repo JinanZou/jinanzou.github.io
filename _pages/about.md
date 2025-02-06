@@ -16,7 +16,7 @@ I am actively seeking motivated undergraduate students and postgraduates interes
 
 News
 ======
-* Feb 2025 I will join the [The AI in Education at Oxford University (AIEOU) interdisciplinary research hub](https://aieou.web.ox.ac.uk/node/4111406) as an academic collaborator.
+* Feb 2025 I will join the [AI in Education at Oxford University (AIEOU) interdisciplinary research hub](https://aieou.web.ox.ac.uk/node/4111406) as an academic collaborator.
 * Nov 2024 I will serve as the panellist at [AI in Education Conference](https://www.informa.com.au/event/conference/education/artificial-intelligence-in-education-conference/).
 * Aug 2024 One paper on CasualAI for stock trading is accepted by [TMLR](https://jmlr.org/tmlr/).
 * Aug 2024 I will serve as the AI Scientist for STEM camp organized by [CSIRO Education](https://www.csiro.au/en/education).
