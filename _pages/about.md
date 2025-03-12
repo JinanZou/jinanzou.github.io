@@ -26,6 +26,7 @@ News
 Experience
 ======
 * Postdoctoral Researcher, Australian Institute for Machine Learning, the University of Adelaide, 2023-current
+* AI Education and Outreach Liaison, Responsible AI Research Centre (RAIR), 2025-current
 * Teaching Assistant, the University of Adelaide, 2019-2023
 
 
