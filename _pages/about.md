@@ -46,5 +46,5 @@ Selected Projects
 
 Contact
 ======
-Office: Portfolio of the Pro Vice-Chancellor (Education), Library Building Level 10  UNSW Sydney 2052 
+Office: Portfolio of the Pro Vice-Chancellor (Education), Library Building Level 10  UNSW Sydney 2052<br>
 Email: jinan.zou@unsw.edu.au  
