@@ -14,7 +14,6 @@ Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Rese
 
 At UNSW, he contributes to university-wide AI initiatives in collaboration with the Pro Vice-Chancellor (Education) portfolio, supporting AI-enabled education strategies and institutional capability development. He is currently pursuing a Juris Doctor at the University of Sydney, focusing on AI governance and regulation.
 
-Email: jinan.zou (at) unsw.edu.au  
 I engage in consulting, speaking, and collaboration in AI governance, education, and professional training.
 
 News
@@ -43,4 +42,9 @@ Selected Projects
 * 2025–Present: GRDC National AI Training Program — Machine Learning Specialist, contributing to industry-focused AI capability development in the Australian agricultural sector  
 * 2023–2025: GRDC-funded project — Automated Snail Detection, Tracking, and Counting using Computer Vision for Australian grain systems  
 * 2024–2025: AI-driven personalised learning systems using Large Language Models (LLMs) for school education  
-* 2023–2025: Causal AI and LLMs for portfolio optimisation and quantitative trading  
+* 2023–2025: Causal AI and LLMs for portfolio optimisation and quantitative trading
+
+Contact
+======
+Office: Portfolio of the Pro Vice-Chancellor (Education), Library Building Level 10  UNSW Sydney 2052 
+Email: jinan.zou@unsw.edu.au  
