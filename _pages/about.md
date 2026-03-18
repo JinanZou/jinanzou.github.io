@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Dr Jinan Zou is a Senior AI Technologist at the University of New South Wales (UNSW) and an AI researcher working at the intersection of AI technology, education, and governance.
-He obtained his PhD from the Australian Institute for Machine Learning (AIML), Adelaide University, advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof. Ehsan Abbasnejad. His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
+Dr Jinan Zou is a Senior AI Technologist at the [University of New South Wales (UNSW)](https://www.unsw.edu.au) and an AI researcher working at the intersection of AI technology, education, and governance. He obtained his PhD from the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) at the [University of Adelaide](https://www.adelaide.edu.au), advised by [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/), [A/Prof. Lingqiao Liu](https://lingqiao-adelaide.github.io/), and [A/Prof. Ehsan Abbasnejad](https://ehsanabb.github.io/). His research focuses on AI in Education, Responsible AI, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
 
 Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Research Fellow at AIML. He is also the founder of [AI Camp](https://www.aicamp.com.au), an initiative advancing AI literacy through programs, camps, and curriculum design, working with schools and organisations to support responsible AI adoption.
 
 At UNSW, he contributes to university-wide AI initiatives in collaboration with the Pro Vice-Chancellor (Education) portfolio, supporting AI-enabled education strategies and institutional capability development. He is currently pursuing a Juris Doctor at the University of Sydney, focusing on AI governance and regulation.
 
 Email: jinan.zou (at) unsw.edu.au  
-I am available for consulting and collaboration in AI governance, education, and professional training.
-
+I engage in consulting, speaking, and collaboration in AI governance, education, and professional training.
 
 News
 ======
-* Jan 2026 Appointed as a mentor in the Industry Mentoring Network in STEM (IMNIS) program, Australian Academy of Technological Sciences and Engineering (ATSE)  
+* Jan 2026 Appointed as a mentor in the Industry Mentoring Network in STEM (IMNIS) program, Australian Academy of Technological Sciences and Engineering (ATSE)
+* Nov 2025 Featured by the Australian Institute for Machine Learning (AIML) for leading the RAIR Education and Community Outreach Program, advancing AI literacy across schools, communities, and industry through workshops and educator training initiatives. [Read more](https://www.adelaide.edu.au/aiml/news/list/2025/11/27/rair-education-and-community-outreach-program-strives-to-improve-ai-literacy) 
 * Aug 2025 Appointed as Machine Learning Specialist for the GRDC National Industry AI Training Program
 * May 2025 I will serve as the speaker at the AI in Education Conference in Sydney and Adelaide
 * Mar 2025 Contributed to the Centre for Augmented Reasoning (CAR) Catalyst Program in partnership with Main Sequence, supporting deep-tech teams from product development to market entry  
