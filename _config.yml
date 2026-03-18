@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jinan Zou"
+  avatar           : "jinan.jpg"
+  name             : "Dr Jinan Zou"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Fellow"
-  location         : "Adelaide, Australia"
-  employer         : "Australian Institute for Machine Learning, The University of Adelaide"
+  bio              : "Senior AI Technolgist"
+  location         : "Sydney, Australia"
+  employer         : "University of New South Wales (UNSW) "
   uri              : # URL
-  email            : "jinan.zou@adelaide.edu.au" 
+  email            : "jinan.zou@unsw.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
