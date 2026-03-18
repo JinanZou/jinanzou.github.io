@@ -9,19 +9,14 @@ redirect_from:
 ---
 
 Dr Jinan Zou is a Senior AI Technologist at the University of New South Wales (UNSW) and an AI researcher working at the intersection of AI technology, education, and governance.
-He obtained his PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide, where he was advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof. Ehsan Abbasnejad.
+He obtained his PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide, advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof. Ehsan Abbasnejad. His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
 
-His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with a particular interest in how AI systems support human decision-making, learning, and institutional transformation. He develops AI-driven systems using Causal AI and Natural Language Processing (NLP) to better understand complex decision processes in domains such as education and quantitative trading.
+Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Research Fellow at AIML. He is also the founder of [AI Camp](https://www.aicamp.com.au), an initiative advancing AI literacy through programs, camps, and curriculum design, working with schools and organisations to support responsible AI adoption.
 
-Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Research Fellow at AIML. Beyond academia, he is the founder of [AI Camp](https://www.aicamp.com.au), an initiative dedicated to advancing AI literacy for school students through structured programs, camps, and curriculum design. His work spans collaborations with schools, research institutes, and community organisations to support responsible and impactful adoption of AI.
+At UNSW, he contributes to university-wide AI initiatives in collaboration with the Pro Vice-Chancellor (Education) portfolio, supporting AI-enabled education strategies and institutional capability development. He is currently pursuing a Juris Doctor at the University of Sydney, focusing on AI governance and regulation.
 
-At UNSW, he contributes to university-wide AI initiatives in collaboration with the Pro Vice-Chancellor (Education) portfolio, supporting the development of AI-enabled education strategies and institutional capabilities.
-
-He is currently pursuing a Juris Doctor at the University of Sydney, focusing on AI governance, AI regulation, and the legal implications of intelligent systems.
-
-Email: jinan.zou (at) unsw.edu.au
-
-I engage in consulting and collaborative work across AI governance, education, and industry-focused professional training. My work includes strategy development, policy design, and capability building for organisations adopting AI. Please feel free to get in touch for enquiries.
+Email: jinan.zou (at) unsw.edu.au  
+I am available for consulting and collaboration in AI governance, education, and professional training.
 
 
 News
