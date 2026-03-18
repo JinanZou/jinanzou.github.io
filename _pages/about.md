@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr Jinan Zou is a Senior AI Technologist at the University of New South Wales (UNSW) and an AI researcher working at the intersection of AI technology, education, and governance.
 
-He obtained his PhD from the Australian Institute for Machine Learning (AIML), Adelaide University, where he was advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof Ehsan Abbasnejad. His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with a particular interest in how AI systems support human decision-making, learning, and institutional transformation. He develops AI-driven systems using Causal AI and Natural Language Processing (NLP) to better understand complex decision processes in domains such as education and quantitative trading.
+Dr Jinan Zou is a Senior AI Technologist at the University of New South Wales (UNSW) and an AI researcher working at the intersection of AI technology, education, and governance.
+He obtained his PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide, where he was advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof. Ehsan Abbasnejad.
+
+His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with a particular interest in how AI systems support human decision-making, learning, and institutional transformation. He develops AI-driven systems using Causal AI and Natural Language Processing (NLP) to better understand complex decision processes in domains such as education and quantitative trading.
 
 Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Research Fellow at AIML. Beyond academia, he is the founder of [AI Camp](https://www.aicamp.com.au), an initiative dedicated to advancing AI literacy for school students through structured programs, camps, and curriculum design. His work spans collaborations with schools, research institutes, and community organisations to support responsible and impactful adoption of AI.
 
@@ -40,12 +42,6 @@ Experience
 * Postdoctoral Researcher, Australian Institute for Machine Learning, the University of Adelaide, 2023-current
 * AI Education and Outreach Liaison, Responsible AI Research Centre (RAIR), 2025.2-2026.2
 
-
-Selected Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Projects Experience
 ======
