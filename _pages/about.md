@@ -34,16 +34,13 @@ News
 Experience
 ======
 * Senior AI Technologist, University of New South Wales (UNSW), 2026–present  
-* Postdoctoral Researcher, Australian Institute for Machine Learning, the University of Adelaide, 2023-current
-* AI Education and Outreach Liaison, Responsible AI Research Centre (RAIR), 2025.2-2026.2
+* AI Education & Outreach Liaison, Responsible AI Research Centre (RAIR), 2025–2026  
+* Postdoctoral Research Fellow, Australian Institute for Machine Learning (AIML), Adelaide University, 2023–2026  
 
 
-Projects Experience
+Selected Projects
 ======
-* Feb 2025 – Present: GRDC National AI Training Program — Machine Learning Specialist, contributing to industry-focused AI capability development in the Australian agricultural sector 
-* Feb 2023 - Feb 2025: GRDC-Funded project: Automated Snail Detection, Tracking, and Counting Using Computer Vision for more effective control of snails in Australian Grain Crops.
-* Jan 2024 - Jan 2025: Enhancing AI Education for School Students with Large Language Models (LLM) for Personalized and Engaging Learning Experiences.
-* Jan 2023 - Jan 2025: Leveraging Large Language Models (LLM) and Causal AI for Advanced Portfolio Management Solutions.
-* July 2022 - July 2023: Utilizing Large Language Models (LLM) for Sentiment Analysis on Twitter to Enhance Insights for Roche Australia.
-
-
+* 2025–Present: GRDC National AI Training Program — Machine Learning Specialist, contributing to industry-focused AI capability development in the Australian agricultural sector  
+* 2023–2025: GRDC-funded project — Automated Snail Detection, Tracking, and Counting using Computer Vision for Australian grain systems  
+* 2024–2025: AI-driven personalised learning systems using Large Language Models (LLMs) for school education  
+* 2023–2025: Causal AI and LLMs for portfolio optimisation and quantitative trading  
