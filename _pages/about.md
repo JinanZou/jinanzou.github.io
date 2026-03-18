@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Dr Jinan Zou is a Senior AI Technologist at the University of New South Wales (UNSW) and an AI researcher working at the intersection of AI technology, education, and governance.
-He obtained his PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide, advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof. Ehsan Abbasnejad. His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
+He obtained his PhD from the Australian Institute for Machine Learning (AIML), Adelaide University, advised by Prof. Javen Shi, A/Prof. Lingqiao Liu, and A/Prof. Ehsan Abbasnejad. His research focuses on Responsible AI, AI in Education, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
 
 Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Research Fellow at AIML. He is also the founder of [AI Camp](https://www.aicamp.com.au), an initiative advancing AI literacy through programs, camps, and curriculum design, working with schools and organisations to support responsible AI adoption.
 
@@ -22,7 +22,8 @@ I am available for consulting and collaboration in AI governance, education, and
 News
 ======
 * Jan 2026 Appointed as a mentor in the Industry Mentoring Network in STEM (IMNIS) program, Australian Academy of Technological Sciences and Engineering (ATSE)  
-* Aug 2025 Appointed as Machine Learning Specialist for the GRDC National Industry AI Training Program  
+* Aug 2025 Appointed as Machine Learning Specialist for the GRDC National Industry AI Training Program
+* May 2025 I will serve as the speaker at the AI in Education Conference in Sydney and Adelaide
 * Mar 2025 Contributed to the Centre for Augmented Reasoning (CAR) Catalyst Program in partnership with Main Sequence, supporting deep-tech teams from product development to market entry  
 * Feb 2025 I will join the [AI in Education at Oxford University (AIEOU) interdisciplinary research hub](https://aieou.web.ox.ac.uk/node/4111406) as an academic collaborator.
 * Nov 2024 I will serve as the panellist at [AI in Education Conference](https://www.informa.com.au/event/conference/education/artificial-intelligence-in-education-conference/).
@@ -34,7 +35,7 @@ News
 Experience
 ======
 * Senior AI Technologist, University of New South Wales (UNSW), 2026–present  
-* AI Education & Outreach Liaison, Responsible AI Research Centre (RAIR), 2025–2026  
+* AI Education & Outreach Liaison Lead, Responsible AI Research Centre (RAIR), 2025–2026  
 * Postdoctoral Research Fellow, Australian Institute for Machine Learning (AIML), Adelaide University, 2023–2026  
 
 
