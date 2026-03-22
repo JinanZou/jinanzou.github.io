@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr Jinan Zou is a Senior AI Technologist at the [University of New South Wales (UNSW)](https://www.unsw.edu.au) and an AI researcher working at the intersection of AI technology, education, and governance. He obtained his PhD from the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) at the [University of Adelaide](https://www.adelaide.edu.au), advised by [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/), [A/Prof. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io//), and [A/Prof. Ehsan Abbasnejad](https://ehsanabb.github.io/). His research focuses on CS Education, Responsible AI, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
+Dr Jinan Zou is a Senior AI Technologist at the [University of New South Wales (UNSW)](https://www.unsw.edu.au) and an Affiliated Researcher with [CSIRO’s Data61](https://www.csiro.au/en/about/people/research-units/data61) working at the intersection of AI technology, education, and governance.. He obtained his PhD from the [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) at the [University of Adelaide](https://www.adelaide.edu.au), advised by [Prof. Javen Shi](https://cs.adelaide.edu.au/~javen/), [A/Prof. Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io//), and [A/Prof. Ehsan Abbasnejad](https://ehsanabb.github.io/). His research focuses on CS Education, Responsible AI, and Agentic AI governance, with an emphasis on supporting human decision-making, learning, and institutional transformation through AI systems.
 
 Previously, he was an AI Education & Outreach Liaison Lead and Postdoctoral Research Fellow at AIML. He is also the founder of [AI Camp](https://www.aicamp.com.au), an initiative advancing AI literacy through programs, camps, and curriculum design in collaboration with schools and organisations.
 
@@ -18,6 +18,7 @@ I engage in consulting, speaking, and collaboration in AI governance, education,
 
 News
 ======
+* Jan 2026 Appointed as an Affiliated Researcher with [CSIRO’s Data61](https://www.csiro.au/en/about/people/research-units/data61).
 * Jan 2026 Appointed as a mentor in the Industry Mentoring Network in STEM (IMNIS) program, Australian Academy of Technological Sciences and Engineering (ATSE)
 * Nov 2025 Featured by the Australian Institute for Machine Learning (AIML) for leading the RAIR Education and Community Outreach Program, advancing AI literacy across schools, communities, and industry through workshops and educator training initiatives. [Read more](https://www.adelaide.edu.au/aiml/news/list/2025/11/27/rair-education-and-community-outreach-program-strives-to-improve-ai-literacy) 
 * Aug 2025 Appointed as Machine Learning Specialist for the GRDC National Industry AI Training Program
@@ -32,7 +33,8 @@ News
 
 Experience
 ======
-* Senior AI Technologist, University of New South Wales (UNSW), 2026–present  
+* Senior AI Technologist, University of New South Wales (UNSW), 2026–present
+* Affiliated Researcher, CSIRO Data61, 2026–present
 * AI Education & Outreach Liaison Lead, Responsible AI Research Centre (RAIR), 2025–2026  
 * Postdoctoral Research Fellow, Australian Institute for Machine Learning (AIML), Adelaide University, 2023–2026  
 
